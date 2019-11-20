@@ -1,6 +1,14 @@
-# assignment
+# The most starred Github Repositories
+
+List the most starred Github repository that were created in the last 30 days
 
 ## Project setup
+### Setup
+- First clone repo by  
+```
+git clone https://github.com/taysei/most-starred.git
+```
+- Install all dependencies for the app 
 ```
 yarn install
 ```
@@ -14,11 +22,5 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
